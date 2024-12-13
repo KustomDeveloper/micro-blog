@@ -1,0 +1,10 @@
+.signup {
+  color: #000;
+}
+.signup button {
+  background: #4521f6;
+  color: #fff;
+  margin-right: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
